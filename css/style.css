@@ -1,0 +1,35 @@
+body {
+	font-family: 'Lato', sans-serif; 
+	line-height: 1.5;
+	color: white;
+
+  background: url('../images/back.jpg');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 400px;
+  margin: 40px;
+  background: rgba(0,0,0,0.5);
+  padding: 15px;
+  border-radius: 10px;
+}
+
+h1 {
+	font-size: 80px;
+  color: #FF4500;
+	margin-bottom: -50px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+a {
+	color: #FF4500;
+	text-decoration: none;
+  
+}
